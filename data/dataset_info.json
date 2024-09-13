@@ -1,4 +1,25 @@
 {
+  "lrs3_v1": {
+    "file_name": "/home/agent_h/data/data_new/datasets/facetalk_train/0911_lrs3_llamaf_train/labels.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "lrs3_v2": {
+      "file_name": "/home/agent_h/data/data_new/datasets/facetalk_train/091202_lrs3_v3_672_56_48_llamaf_train/labels.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },

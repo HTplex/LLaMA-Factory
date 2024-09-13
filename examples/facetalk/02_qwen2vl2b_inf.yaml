@@ -1,0 +1,4 @@
+model_name_or_path: /home/agent_h/data/data_new/llms-exp/01_qwen2vl_full_sft_v0/checkpoint-15000
+template: qwen2_vl
+
+# use llamafactory-cli webchat examples/facetalk/xxx.yaml to generate the following config
